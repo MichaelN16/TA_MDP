@@ -1,0 +1,29 @@
+{
+	"Resep" :
+	[
+		{
+			"id": 1,
+			"nama" :"SOTO",
+			"desc" : "Pagi ini bingung mau masak apa? soto enak kali ya, yuk  bund kita coba masak soto",
+			"bahan": " 250 gr dada ayam Secukupnya air untuk rebusan pertama - 1,2 liter atau sesuai selera untuk rebusan selanjutnya - gula dan garam - 2 sdm minyak goreng - 3 siung bawang merah - 2 siung bawang putih - 1/2 sdt kunyit - 2 butir kemiri, yg sudah di sangrai - 1 sdt kaldu bubuk - 2 lembar daun jeruk - 1 batang serai, memarkan - 2 cm lengkuas, memarkan",
+			"cara": "Rebus ayam, buang air rebusan pertama. Selanjutnya didihkan 1.2 lt air. Lalu rebus kembali ayam tadi beserta rempah daun. Sambil merebus ayam, ulek bumbu halus, lalu tumis bumbu halus menggunakan minyak sayur sampai harum dan matang (supaya gak langu). Kemudian masukan tumisan tadi kedalam rebusan ayam, Aduk rata. Beri garam, kaldu bubuk dan gula. Masak sampai ayam matang. Tes rasa. Jika sudah pas. Matikan kompor. Kuah siap digunakan.",
+			"avatar": "https://www.ayosemarang.com/images-semarang/post/articles/2020/04/29/56180/cara-membuat-soto-ayam.jpg"
+		},
+		{
+			"id": 2,
+			"nama" : "Nasi Goreng",
+			"desc" : "Di rumah cuma nyisa nasih nih, masak apa yaa? nasi goreng sabi, pas banget lagi ujan",
+			"bahan": "-1 piring nasi dingin -5 bh cabe rawit, iris -3 bh bawang merah, iris -2 siung bawang putih, iris -1 btr telur -1 sdm kecap manis -1 sdm kecap asin -1/2 sdt gula pasir -1/2 sdt merica -secukupnya Garam",
+			"cara": " Kocok telur beri sedikit garam. Panaskan minyak di wajan. Masukkan telur, bikin orak arik. Sisihkan dengan sisa minyak di wajan, tumis bawang merah, bawang putih dan cabe hingga harum. Masukkan nasi dan telur orak arik. Beri kecap2an, garam, gula dan merica. Aduk rata masak sambil terus diaduk hingga nasi agak kering. Koreksi rasa. Angkat. Sajikan nasgor dg telur ceplok dan irisan timun",
+			"avatar": "https://img-global.cpcdn.com/recipes/8979ffdea7759481/1502x1064cq70/nasi-goreng-kampung-foto-resep-utama.jpg"
+		},
+		{
+			"id": 3,
+			"nama" : "Sate",
+			"desc" : "Kalo pengen sate Madura ga perlu jauh-jauh ke Madura, bikin sendiri di rumah ez pz",
+			"bahan": "-1 kg daging ayam fillet -1 sdt garam -2 sdm kecap manis -perasan air lemon/jeruk limau -tusuk sate - kacang tanah 300 gram, goreng/sangrai - bawang putih 6 siung - bawang merah 8 siung - cabai merah 4 buah - air 500 ml - daun jeruk 3 lembar - garam gula secukupnya - kecap manis 100 ml",
+			"cara": "-Potong daging ayam bentuk dadu, beri garam dan perasan jeruk lemon dan kecap manis, simpan dikulkas minimal 1 jam. - Lalu tusuk-tusuk dengan tusuk sate dan lakukan hingga habis, sisihkan. - Haluskan semua bahan bumbu kacang, kecuali kecap, daun jeruk. - Lalu masukkan kecap, air, daun jeruk dan masak dengan api kecil hingga air surut dan mengeluarkan minyak. Koreksi rasa. - Siapkan bakaran/ panggangan. Lumuri sate ayam dengan bumbu kacang dan sedikit kecap manis. - Bakar sate hingga matang sambil dibolak-balik. - Sajikan sate ayam dengan bumbu kacang, jeruk limau, kecap manis dan lontong dan pelengkap lainnya.",
+			"avatar": "https://sweetrip.id/wp-content/uploads/2020/05/duniakulinersurabaya_84272350_541137659861429_5681105554989196814_n.jpg"
+		}
+	]
+}
